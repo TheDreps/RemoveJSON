@@ -1,0 +1,29 @@
+[
+{
+
+"modid": "removejson",
+
+"name": "RemoveJson",
+
+"description": "Removes JSON messages in chat on server change",
+
+"version": "${version}",
+
+"mcversion": "${mcversion}",
+
+"url": "https://github.com/lewismercer/RemoveJSON",
+
+"updateUrl": "https://github.com/lewismercer/RemoveJSON/releases",
+
+"authorList": ["TheDreps"],
+
+"credits": "",
+
+"logoFile": "",
+
+"screenshots": [],
+
+"dependencies": []
+
+}
+]
